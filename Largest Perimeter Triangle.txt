@@ -1,3 +1,8 @@
+
+976. Largest Perimeter Triangle
+
+link : https://leetcode.com/problems/largest-perimeter-triangle/?envType=study-plan&id=programming-skills-i 
+
 class Solution {
     public int largestPerimeter(int[] nums) {
          Arrays.sort(nums);

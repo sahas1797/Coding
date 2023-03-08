@@ -1,3 +1,9 @@
+1523. Count Odd Numbers in an Interval Range
+link : https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/?envType=study-plan&id=programming-skills-i
+
+
+
+
 class OddCount
 {  
     public void count(int low, int high) 
